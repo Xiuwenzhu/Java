@@ -1,2 +1,2 @@
 # Java
-# This is a snippet of code using Java to check the validation of a password string. 
+# I am learning Java in my school. Here are the projects I built. 
